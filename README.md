@@ -2,7 +2,7 @@
 
 ## LP Métiers de l'informatique parcours Développement d'applications Web et Mobile
 
-Ce projet a été réalisé dans le cadre de ma Licence Professionnelle en informatique et à pour but d'expérimenter flutter.
+Ce projet a été réalisé dans le cadre de ma licence professionnelle en informatique et à pour but d'expérimenter flutter.
 
 ## PRÉSENTATION
 
