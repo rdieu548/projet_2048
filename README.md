@@ -8,7 +8,7 @@ Ce projet a été réalisé dans le cadre de ma Licence Professionnelle en infor
 
 Ce projet à pour but de reproduire le jeu 2048.
 
-## AUTEUR DU PROJEt
+## AUTEUR DU PROJET
 
 Rémi DIEU & Kyllian Levent
 
