@@ -1,16 +1,12 @@
 # projet_2048
 
-A new Flutter project.
+Projet flutter réalisé via flutter.
 
-## Getting Started
+## PRÉSENTATION
 
-This project is a starting point for a Flutter application.
+Ce projet à pour but de refaire le jeu 2048.
 
-A few resources to get you started if this is your first Flutter project:
+## AUTEUR
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Rémi DIEU & Kyllian Levent
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
