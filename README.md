@@ -1,10 +1,11 @@
-# projet_2048
+# Projet Flutter - LP Métiers de l'informatique parcours Développement d'applications Web et Mobile
 
-Projet flutter réalisé via flutter dans le cas de ma LP.
+Ce projet a été réalisé dans le cadre de ma Licence Professionnelle en informatique.
+Développé avec Flutter, ce premier projet du semestre à pour but d'expérimenter flutter.
 
 ## PRÉSENTATION
 
-Ce projet à pour but de refaire le jeu 2048.
+Ce projet à pour but de reproduire le jeu 2048.
 
 ## AUTEUR DU PROJEt
 
